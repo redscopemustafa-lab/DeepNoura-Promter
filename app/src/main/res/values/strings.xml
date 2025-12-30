@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DeepNoura Prompter</string>
+    <string name="export_chooser_title">Share project JSON</string>
+    <string name="import_error">Failed to import project</string>
+    <string name="export_error">Failed to export project</string>
+    <string name="save_error">Failed to save project</string>
+    <string name="import_success">Project imported</string>
+    <string name="delete_confirmation">Delete this segment?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="restart">Restart</string>
+</resources>
